@@ -1,0 +1,28 @@
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\bin\Debug\net8.0\Ferry Ticketing System.exe
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\bin\Debug\net8.0\Ferry Ticketing System.deps.json
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\bin\Debug\net8.0\Ferry Ticketing System.runtimeconfig.json
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\bin\Debug\net8.0\Ferry Ticketing System.dll
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\bin\Debug\net8.0\Ferry Ticketing System.pdb
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.dll
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\refint\Ferry Ticketing System.dll
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.pdb
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.genruntimeconfig.cache
+C:\Users\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\ref\Ferry Ticketing System.dll
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\bin\Debug\net8.0\Ferry Ticketing System.exe
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\bin\Debug\net8.0\Ferry Ticketing System.deps.json
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\bin\Debug\net8.0\Ferry Ticketing System.runtimeconfig.json
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\bin\Debug\net8.0\Ferry Ticketing System.dll
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\bin\Debug\net8.0\Ferry Ticketing System.pdb
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.AssemblyInfoInputs.cache
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.AssemblyInfo.cs
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.csproj.CoreCompileInputs.cache
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.dll
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\refint\Ferry Ticketing System.dll
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.pdb
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\Ferry Ticketing System.genruntimeconfig.cache
+E:\ALL TRANSFER\C Drive John\Desktop\Desktop\Files\C#_Practice\Ferry Ticketing System\obj\Debug\net8.0\ref\Ferry Ticketing System.dll
